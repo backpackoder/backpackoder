@@ -20,8 +20,10 @@ Miscellaneous tools / libraries I can handle with :<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MUI logo" width="25px" />
 
 Connect with me:<br />
-<img src="https://www.linkedin.com/in/backpackoder/" alt="Linkedin logo" width="25px" />
-<img src="https://twitter.com/backpackoder" alt="Twitter logo" width="25px" />
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin logo" width="25px" />]["https://www.linkedin.com/in/backpackoder/"]
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter logo" width="25px" />
+
+"https://twitter.com/backpackoder"
 
 Languages and Tools:
 
