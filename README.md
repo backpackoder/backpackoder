@@ -4,8 +4,8 @@
 **backpackoder/backpackoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Let me introduce myself...
-My name is Thibaut Barbiera (as Backpackoder), a frenchman working as a frontend developper using React.js and TypeScript.
+Let me introduce myself...<br />
+My name is Thibaut Barbiera (as Backpackoder), a frenchman working as a frontend developper using React.js and TypeScript.<br /><br />
 So these are my stacks :<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript logo" width="25px" />
