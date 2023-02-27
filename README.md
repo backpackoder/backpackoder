@@ -28,7 +28,6 @@ My name is Thibaut Barbiera (as Backpackoder), a frenchman working as a frontend
 <b>My stats :</b><br :>
 ![GHstats](https://github-readme-stats.vercel.app/api?username=backpackoder&show_icons=true)
 
-<b>Languages and Tools:</b>
 - 🔭 I’m currently working on React.js and TypeScript.
 - 🌱 I’m currently learning new programming skills.
 - 👯 I’m looking to collaborate on a new website project.
