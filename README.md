@@ -4,6 +4,8 @@
 **backpackoder/backpackoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+const er = "https://www.linkedin.com/in/backpackoder/"
+
 Let me introduce myself...
 My name is Thibaut Barbiera (as Backpackoder), a frenchman working as a frontend developper using React.js and TypeScript.
 So these are my stacks :<br />
@@ -20,7 +22,7 @@ Miscellaneous tools / libraries I can handle with :<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MUI logo" width="25px" />
 
 Connect with me:<br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin logo" width="25px" />
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin logo" width="25px" />][er]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter logo" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack logo" width="25px" />
 
