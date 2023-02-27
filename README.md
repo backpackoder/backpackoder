@@ -20,16 +20,10 @@ Miscellaneous tools / libraries I can handle with :<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MUI logo" width="25px" />
 
 Connect with me:<br />
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin logo" width="25px" />]["https://www.linkedin.com/in/backpackoder/"]
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter logo" width="25px" />
-
-Image : ![penguin.png](![penguin.png](https://steemitimages.com/DQmTYYh52jVvruczKnhfiEjvpke6SXRVKv8pWpc4v8HVBSt/penguin.png))
-Image cliquable : [![shark.png](https://steemitimages.com/DQmXsUhr1QvYsmUWjN3oDgfoMGp3zJzE8Wahq4s1PgdcUMg/shark.png)](https://commons.wikimedia.org/wiki/Category:Creative_Tail_Round_Animal_Icons)
-
-"https://twitter.com/backpackoder"
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin logo" width="25px" />]("https://www.linkedin.com/in/backpackoder/")
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter logo" width="25px" />]("https://twitter.com/backpackoder")
 
 Languages and Tools:
-
 - 🔭 I’m currently working on React.js and TypeScript.
 - 🌱 I’m currently learning new programming skills.
 - 👯 I’m looking to collaborate on a new website project.
