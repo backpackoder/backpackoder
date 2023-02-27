@@ -6,26 +6,29 @@
 
 Let me introduce myself...
 My name is Thibaut Barbiera (as Backpackoder), a frenchman working as a frontend developper using React.js and TypeScript.
-So these are my stacks :<br /><br /><br />
+So these are my stacks :<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" width="25px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="25px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="25px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25px" />
-                                                                                            
-Connect with me:
-img_contact    img_contact    img_contact    img_contact    img_contact
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript logo" width="25px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript logo" width="25px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 logo" width="25px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 logo" width="25px" />
+
+Miscellaneous tools / libraries I can handle with :<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VSCode logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MUI logo" />
+
+Connect with me:<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+
 Languages and Tools:
-Visual Studio Code
 
-HTML5CSS3JavaScriptReactGraphQLNode.jsJavaMySQLGit
-
-AWS
-                                                                                            
-- 🔭 I’m currently working on React and TypeScript
-- 🌱 I’m currently learning programming skills.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on React.js and TypeScript.
+- 🌱 I’m currently learning new programming skills.
+- 👯 I’m looking to collaborate on a new website project.
+- 🤔 I’m looking for help with how to make babies.
 - 💬 Ask me about anything.
-- 📫 How to reach me: th.barbiera@outlook.fr
 - ⚡ Fun fact: people think I'm a human.
