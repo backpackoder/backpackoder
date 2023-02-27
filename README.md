@@ -23,6 +23,9 @@ Connect with me:<br />
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin logo" width="25px" />]["https://www.linkedin.com/in/backpackoder/"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter logo" width="25px" />
 
+Image : ![penguin.png](![penguin.png](https://steemitimages.com/DQmTYYh52jVvruczKnhfiEjvpke6SXRVKv8pWpc4v8HVBSt/penguin.png))
+Image cliquable : [![shark.png](https://steemitimages.com/DQmXsUhr1QvYsmUWjN3oDgfoMGp3zJzE8Wahq4s1PgdcUMg/shark.png)](https://commons.wikimedia.org/wiki/Category:Creative_Tail_Round_Animal_Icons)
+
 "https://twitter.com/backpackoder"
 
 Languages and Tools:
