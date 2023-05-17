@@ -11,7 +11,7 @@ My online portfolio :<br />
 👉 https://thibautbarbiera.com
 
 <b>So here are my stacks :</b><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/next-original.svg" alt="Next logo" width="25px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next logo" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript logo" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript logo" width="25px" />
