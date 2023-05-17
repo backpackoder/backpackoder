@@ -7,10 +7,11 @@
 <b>Let me introduce myself...</b><br />
 My name is Thibaut Barbiera (as Backpackoder), a frenchman working as a frontend developper using React.js and TypeScript.<br />
 
-My portfolio :<br />
+My online portfolio :<br />
 👉 https://thibautbarbiera.com
 
 <b>So here are my stacks :</b><br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/next-original.svg" alt="Next logo" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript logo" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript logo" width="25px" />
@@ -18,6 +19,7 @@ My portfolio :<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 logo" width="25px" />
 
 <b>Miscellaneous tools / libraries I can handle with :</b><br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="VSCode logo" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VSCode logo" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL logo" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase logo" width="25px" />
