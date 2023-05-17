@@ -5,7 +5,7 @@
 -->
 
 <b>Let me introduce myself...</b><br />
-My name is Thibaut Barbiera (as Backpackoder), a frenchman working as a frontend developper using React.js and TypeScript.<br />
+My name is Thibaut Barbiera (as Backpackoder), a frenchman working as a frontend developper using Next.js, React.js and TypeScript.<br />
 
 My online portfolio :<br />
 👉 https://thibautbarbiera.com
