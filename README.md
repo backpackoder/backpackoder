@@ -35,8 +35,8 @@ And more to come...
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin logo" width="25px" />]("https://www.linkedin.com/in/backpackoder/")
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter logo" width="25px" />]("https://twitter.com/backpackoder")
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin logo" width="25px" />("https://www.linkedin.com/in/backpackoder/")
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter logo" width="25px" />("https://twitter.com/backpackoder")
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin logo" width="25px" ("https://www.linkedin.com/in/backpackoder/")/>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter logo" width="25px" ("https://twitter.com/backpackoder")/>]
 
 <b>My stats :</b><br :>
 ![GHstats](https://github-readme-stats.vercel.app/api?username=backpackoder&show_icons=true)
