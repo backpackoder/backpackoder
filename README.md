@@ -20,7 +20,7 @@ My online portfolio :<br />
 
 <b>Miscellaneous tools / libraries I can handle with :</b><br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VSCode logo" width="25px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind logo" width="25px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind logo" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git logo" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM logo" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-plain.svg" alt="Babel logo" width="25px" />
@@ -32,9 +32,12 @@ My online portfolio :<br />
 And more to come...
 
 <b>Connect with me:</b><br />
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin logo" width="25px" />](https://www.linkedin.com/in/backpackoder/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter logo" width="25px" />](https://twitter.com/backpackoder)
-
+<a href="https://www.linkedin.com/in/backpackoder/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin logo" width="25px" />
+</a>
+<a href="https://twitter.com/backpackoder" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter logo" width="25px" />
+</a>
 
 <b>My stats :</b><br :>
 ![GHstats](https://github-readme-stats.vercel.app/api?username=backpackoder&show_icons=true)
