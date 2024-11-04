@@ -32,10 +32,10 @@ My online portfolio :<br />
 And more to come...
 
 <b>Connect with me:</b><br />
-<a href="https://www.linkedin.com/in/backpackoder/" target="_blank">
+<a href="https://www.linkedin.com/in/backpackoder/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin logo" width="25px" />
 </a>
-<a href="https://twitter.com/backpackoder" target="_blank">
+<a href="https://twitter.com/backpackoder">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter logo" width="25px" />
 </a>
 
